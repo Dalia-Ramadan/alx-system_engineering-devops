@@ -1,4 +1,5 @@
-0-current_working_directory:   text/plain
+#!/bin/bash
+echo "0-current_working_directory:   text/plain
 100-lets_move:                 text/plain
 101-clean_emacs:               text/plain
 102-tree:                      text/plain
@@ -57,4 +58,4 @@ h_school.mgc:                  data
 __ls__:                        symbolic link to /bin/ls
 ls:                            empty
 README.md:                     ASCII text
-school.mgc:                    ASCII text
+school.mgc:                    ASCII text"
