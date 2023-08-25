@@ -1,2 +1,2 @@
 #!/bin/bash
-chuser -R --olduser guillaume --newuser betty
+chown--from=guillame betty hello
